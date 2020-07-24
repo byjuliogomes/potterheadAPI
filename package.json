@@ -1,0 +1,25 @@
+{
+  "name": "potterheadapi",
+  "version": "1.0.0",
+  "description": "API de Harry Potter em Português-BR",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "keywords": [
+    "Harry",
+    "Potter",
+    "API",
+    "Magia",
+    "PotterHead",
+    "pt-br"
+  ],
+  "author": "Júlio Cesar e Ingrid Nogueira",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4"
+  }
+}
